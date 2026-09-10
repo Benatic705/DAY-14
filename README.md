@@ -25,15 +25,6 @@ POST| "/students"| Add a student
 PUT| "/students/1"| Update a student
 DELETE| "/students/1"| Delete a student
 
-How to Run
-
-pip install -r requirements.txt
-python app.py
-
-The API will run at:
-
-"http://127.0.0.1:5000"
-
 Learning Outcome
 
 Learned REST API concepts, HTTP methods, JSON data handling, Flask routing, and CRUD operations.
